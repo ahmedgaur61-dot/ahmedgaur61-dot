@@ -22,9 +22,8 @@
 
 ### 🌐 Projects
 
-* 🔗 Recruitment Website (Multi-language platform)
-* 🔗 European School Website (9-language support)
-
+- 🔗 [Recruitment Website](https://your-link) – Multi-language platform  
+- 🔗 [European School Website](https://your-link) – 9-language support  
 ---
 
 ### 📊 GitHub Stats
