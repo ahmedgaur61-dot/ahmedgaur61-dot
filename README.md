@@ -52,3 +52,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed;Web+Developer;React+Developer;Multilingual+Web+Apps+Builder" />
 </p>
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgaur61-dot&layout=compact&theme=tokyonight" />
+</p>
