@@ -9,7 +9,7 @@
 * 🌍 Specialized in multilingual websites (6+ languages)
 * 💡 Focused on clean UI/UX and responsive design
 * ⚡ Always learning and improving
-
+💼 Open to freelance, internships, and full-time opportunities
 ---
 
 ### 🛠️ Tech Stack
