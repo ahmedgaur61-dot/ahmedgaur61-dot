@@ -46,3 +46,10 @@
 ### 📫 Contact Me
 
 * 📧 [ahmedgaur61@gmail.com](mailto:ahmedgaur61@gmail.com)
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed;Web+Developer;React+Developer;Multilingual+Web+Apps+Builder" />
+</p>
